@@ -1,0 +1,29 @@
+
+.section{
+  width: 32.75%;
+  height: 100vh;
+  float: left;
+  background: #428BE5;
+}
+.middle{
+  background-color: #00ECC4;
+}
+.right{
+  background-color: #A6F284;
+  height: 100vh;
+}
+.div-image{
+  background: red;
+  width: 32.75%;
+  height: 25vh;
+  float: right;
+  position: absolute;
+  bottom: 0;
+}
+p{
+  color: white;
+  font-family: arial;
+  font-size: 25px;
+  text-align: center;
+  padding: 80px 0px;
+}
