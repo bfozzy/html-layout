@@ -1,0 +1,70 @@
+body{
+  background-image: url("./waves.jpeg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+h1 {
+  color: white;
+  font-size: 48px;
+  font-family: "Century Gothic", sans-serif;
+  font-weight: bold;
+  text-align: center;
+  padding: 30px;
+  position: relative;
+}
+h2 img{
+  max-width: 75%;
+  min-width: 0;
+  height: auto;
+  position: relative;
+  margin-top: 10px;
+}
+p{
+  color: white;
+  font-size: 20px;
+  font-weight: normal;
+  font-family: "Century Gothic", sans-serif;
+  text-align: center;
+  padding: 30px;
+}
+p em{
+  font-style: italic;
+}
+hr{
+  width: 25%;
+}
+footer{
+  text-align: center;
+position: relative;
+top: 150px;
+}
+.heading{
+
+  top: 25vh;
+  right: 50vw;
+  bottom: 0;
+}
+.quote{
+
+top: 45vh;
+right: 20vw;
+}
+.menu-icon{
+  position: relative;
+  right: 5px;
+  padding-left: 0;
+  padding-top: 15px;
+  padding-right: 0;
+}
+.logo{
+  max-width: 100%;
+  max-height: inherit;
+  height: auto;
+  width: 100px;
+   margin-left: 20px;
+   margin-top: 10px;
+padding-right: 15px;
+position: relative;
+left: 10px;
+top: 10px;
+}
